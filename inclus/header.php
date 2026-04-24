@@ -25,6 +25,10 @@
                 font-weight:bold;
                 
             }
+            .img-galerie {
+                /* width: 220px; */
+                height: 150px;
+            }
         </style>
 </head>
 <body>

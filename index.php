@@ -13,117 +13,20 @@
             </div>
             <div class="m-0 p-2">
                 
-                    <div class="btn btn-primary btn-lg m-1">Découvrir nos activités</div>
+                    <a href="#activites" class="btn btn-primary m-1">Découvrir nos activités</a>
                 
             
-                    <div class="btn btn-success btn-lg m-1">Nous contacter</div>
+                    <a class="btn btn-success m-1">Nous contacter</a>
                 
             </div>
         </div>
     </div>
-    <div class="container-fluid justify-content-center p-2">
-        <div class="justify-content-center d-flex">
-            <span class="h2 text-primary"><strong>Notre engagement</strong></span>
-        </div>
-        <div class="border m-auto p-2 w-75 border-light-subtle rounded bg-body-tertiary text-center d-flex">
-            <div class="col p-2 m-2 border-end text-success">
-                <div>
-                    <i class="bi bi-people"></i>
-                </div>
-                <div>
-                    <strong>
-                        Mission
-                    </strong>
-                </div>
-                <div class="text-muted small">
-                    <span class="placeholder placeholder-glow col-12"></span>
-                </div>
-                <div class="text-muted small">
-                    <span class="placeholder placeholder-glow col-12"></span>
-                </div>
-            </div>
+    <div class="container justify-content-center p-2">
+        <?php include("./inclus/engagement.php"); ?>
 
-            <div class="col p-2 m-2 border-end text-warning">
-                <div>
-                    <i class="bi bi-globe"></i>
-                </div>
-                <div>
-                    <strong>
-                        <span class="col-4">Impact</span>
-                    </strong>
-                </div>
-                <div class="text-muted small">
-                    <span class="placeholder col-12"></span>
-                </div>
-                <div class="text-muted small text-start">
-                    <span class="placeholder col-12"></span>
-                </div>
-            </div>
-
-            <div class="col p-2 m-2 text-danger">
-                <div>
-                    <i class="bi bi-chat-square-dots-fill"></i>
-                </div>
-                <div>
-                    <strong>
-                        Valeur
-                    </strong>
-                </div>
-                <div class="text-muted small">
-                    <span class="placeholder placeholder-glow col-12"></span>
-                </div>
-                <div class="text-muted small">
-                    <span class="placeholder placeholder-glow col-12"></span>
-                </div>
-            </div>
-
-        </div>
-
-        <div class="justify-content-center d-flex">
-            <span class="h2 text-primary"><strong>Activités Récentes</strong></span>
-        </div>
+        <?php include("./inclus/activites.php"); ?>
         
-        <div class="row row-cols-1 row-cols-md-3 g-3">
-            <div class="col">
-                <div class="card">
-                <img src="..." class="card-img-top" alt="...">
-                <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                </div>
-                </div>
-            </div>
-            <div class="col">
-                <div class="card">
-                <img src="..." class="card-img-top" alt="...">
-                <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                </div>
-                </div>
-            </div>
-            <div class="col">
-                <div class="card">
-                <img src="..." class="card-img-top" alt="...">
-                <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
-                </div>
-                </div>
-            </div>
-            <div class="col">
-                <div class="card">
-                <img src="..." class="card-img-top" alt="...">
-                <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                </div>
-                </div>
-            </div>
-            </div>
-
-
-        </div>
+        <?php include("./inclus/galerie.php"); ?>
     </div>
 
 </div>
