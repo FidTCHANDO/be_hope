@@ -19,6 +19,10 @@
                 height: 25px;
                 margin: 0px;
             }
+            .logo-md {
+                height: 60px;
+                margin: 0px;
+            }
             .active {
                 text-decoration: underline;
                 text-underline-offset: 10px;

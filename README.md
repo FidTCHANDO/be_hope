@@ -19,6 +19,10 @@ Créer un site web pour une organisation avec une structure donnée
     * header.php (✅)
     * footer.php (✅)
     * navbar.php (✅)
+    * galerie.php (✅)
+    * engagement.php (✅)
+    * activites.php (✅)
+    * partenaires.php (✅)
 
 * pages/
     * activities.php

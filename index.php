@@ -27,6 +27,8 @@
         <?php include("./inclus/activites.php"); ?>
         
         <?php include("./inclus/galerie.php"); ?>
+
+        <?php include("./inclus/partenaires.php"); ?>
     </div>
 
 </div>
