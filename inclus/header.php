@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <title>Be Hope</title>
-    <link rel="icon" sizes="32x32" type="image/png" href="./images/Logo Be Hope_FN_tr-01.png">
-    <link href="./styles/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="./styles/css/style.css">
+    <link rel="icon" sizes="32x32" type="image/png" href="/images/Logo Be Hope_FN_tr-01.png">
+    <link href="/styles/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/styles/css/style.css">
     
      <!-- <link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://github.githubassets.com/favicons/favicon-dark.svg" data-base-href="https://github.githubassets.com/favicons/favicon"> -->
         <style>
-            @import url("./node_modules/bootstrap-icons/font/bootstrap-icons.css");
+            @import url("/node_modules/bootstrap-icons/font/bootstrap-icons.css");
 
             .logo-org {
                 height: 40px;
@@ -32,6 +32,11 @@
             .img-galerie {
                 /* width: 220px; */
                 height: 150px;
+            }
+            .hero {
+                /* height: 450px;  */
+                background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.4)), 
+                url('/images/im (3).jpg');
             }
         </style>
 </head>

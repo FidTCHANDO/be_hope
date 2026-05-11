@@ -2,10 +2,7 @@
 <?php include('./inclus/navbar.php') ?>
 
 <div class="m-0 p-0">
-    <div class="container-fluid text-light p-5" style="height: 450px; background: linear-gradient(
-            rgba(0,0,0,0.6),
-            rgba(0,0,0,0.4)
-        ), url('./images/im (3).jpg'); ">
+    <section class="hero container-fluid text-light p-5">
         <div class="mt-5 w-50  align-items-end">
             <div id="mission-box" class="m-0 row p-1">
                 <div class="h1"><strong>Agir pour le développement communautaire</strong></div>
@@ -20,11 +17,11 @@
                 
             </div>
         </div>
-    </div>
-    <div class="container justify-content-center p-2">
+    </section>
+    <div class="container-fluid w-75 mx-auto justify-content-center p-2">
         <?php include("./inclus/engagement.php"); ?>
 
-        <?php include("./inclus/activites.php"); ?>
+        <?php include("./inclus/recent_activities.php"); ?>
         
         <?php include("./inclus/galerie.php"); ?>
 
@@ -33,4 +30,11 @@
 
 </div>
 
+
 <?php include("./inclus/footer.php"); ?>
+<script>
+    $(document).ready(function(){
+        $('#navitem1').addClass("active");
+    });
+
+</script>

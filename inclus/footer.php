@@ -12,9 +12,9 @@
                 <a class="text-light text-decoration-none" href="mailto:contact@domaine.org">contact@domaine.org</a>
             </div>
             <div class="col-md-2">
-                <a href="#" class="m-1"><img class="logo-sm" src="./images/facebook.png" alt="" srcset=""></a>
-                <a href="#" class="m-1"><img class="logo-sm" src="./images/instagram.png" alt="" srcset=""></a>
-                <a href="#" class="m-1"><img class="logo-sm" src="./images/whatsapp.png" alt="" srcset=""></a>
+                <a href="#" class="m-1"><img class="logo-sm" src="/images/facebook.png" alt="" srcset=""></a>
+                <a href="#" class="m-1"><img class="logo-sm" src="/images/instagram.png" alt="" srcset=""></a>
+                <a href="#" class="m-1"><img class="logo-sm" src="/images/whatsapp.png" alt="" srcset=""></a>
             </div>
         </div>
     </section>
@@ -22,7 +22,8 @@
         <div class="fw-bold">© 2025 - BE HOPE</div>
     </div>
 </footer>
-<script src="./styles/js/bootstrap.bundle.min.js"></script>
-<script src="./styles/js/bootstrap.js"></script>
+<script src="/styles/js/jquery-4.0.0.min.js"></script>
+<script src="/styles/js/bootstrap.bundle.min.js"></script>
+<script src="/styles/js/bootstrap.js"></script>
 </body>
 </html>

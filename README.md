@@ -25,13 +25,13 @@ Créer un site web pour une organisation avec une structure donnée
     * partenaires.php (✅)
 
 * pages/
-    * activities.php
+    * activities.php (✅) remaining pagination
     * activity_details.php
     * news.php
     * gallery.php
     * publications.php
     * contact.php
-    * about.php
+    * about.php 
 
 * assets/
     * css/
@@ -41,7 +41,7 @@ Créer un site web pour une organisation avec une structure donnée
     * images/
     * uploads/
 
-* index.php
+* index.php (✅)
 
 # Technologies recommandées
 ## Frontend

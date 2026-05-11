@@ -9,7 +9,7 @@
             <div class="row row-cols-1 row-cols-md-3 g-4">
                 <div class="col">
                     <div class="card">
-                    <img src="./images/im (4).jpg" class="card-img-top" alt="...">
+                    <img src="/images/im (4).jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title card-header px-0">Atelier de soutien scolaire et coaching académique</h5>
                         <p class="card-text">Cet atelier vise à accompagner les élèves du primaire et du secondaire 
@@ -22,7 +22,7 @@
                 
                 <div class="col">
                     <div class="card">
-                    <img src="./images/im (5).jpg" class="card-img-top" alt="...">
+                    <img src="/images/im (5).jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title card-header px-0">Formation en compétences numériques de base</h5>
                         <p class="card-text">
@@ -37,7 +37,7 @@
 
                 <div class="col">
                     <div class="card">
-                    <img src="./images/im (4).jpg" class="card-img-top" alt="...">
+                    <img src="/images/im (4).jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title card-header px-0">Programme de mentorat pour jeunes talents</h5>
                         <p class="card-text">Les participants bénéficient de sessions d'orientation, de conseils 

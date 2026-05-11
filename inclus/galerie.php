@@ -8,19 +8,19 @@
         
     <div class="row g-2">
         <div class="col-md-4">
-            <img src="./images/im (2).jpg" alt="" class="card-img">
+            <img src="/images/im (2).jpg" alt="" class="card-img">
         </div>
         <div class="col-md-4">
-            <img src="./images/im (4).jpg" alt="" class="card-img">
+            <img src="/images/im (4).jpg" alt="" class="card-img">
         </div>
         <div class="col-md-4">
-            <img src="./images/im (1).jpg" alt="" class="card-img">
+            <img src="/images/im (1).jpg" alt="" class="card-img">
         </div>
         <div class="col-md-6">
-            <img src="./images/im (4).jpg" alt="" class="card-img">
+            <img src="/images/im (4).jpg" alt="" class="card-img">
         </div>
         <div class="col-md-6">
-            <img src="./images/im (3).jpg" alt="" class="card-img">
+            <img src="/images/im (3).jpg" alt="" class="card-img">
         </div>
     </div>
     <div class="text-center m-2 ">
